@@ -1,2 +1,11 @@
+langchain
+langchain_community
+langchain_core
+langchain_ollama
 openai
-dotenv
+python-dotenv
+streamlit
+PyPDF2
+pypdf
+faiss-cpu
+langchain_nvidia_ai_endpoints
